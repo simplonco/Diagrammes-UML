@@ -1,5 +1,8 @@
 ##**Diagrammes UML**
 
+> _**Note :**_
+> _Ce cours se situe dans le cadre d'un case study sur la réalisation d'un projet de SaaS : Fixeez ( un service d'ubérisation de réparation vélo ). Il peut cependant être utilisé pour un projet avec des contraintes techniques différentes de celles du case study._
+
 Communiquer dans une équipe de métiers divers où chacun vient avec son vocabulaire peut être challenging. Les diagrammes UML permettent d'**identifier et banaliser les process à incorporer dans un projet**.
 
 Il y a plusieurs types de diagrammes.
@@ -9,14 +12,11 @@ Certains permettent de définir les visions globales d'un produit. D'autres de d
 
 ##Step 1 - Le diagramme des cas d'utilisations ou use-case
 
-Le use-case, comme son nom l'indique, permet de définir toutes les utilisations du produit.
-
-https://github.com/simplonco/UML-Use-Case
+Le [use-case](https://github.com/simplonco/UML-Use-Case), comme son nom l'indique, permet de définir toutes les utilisations du produit.
 
 ----------
 
 ##Step 2 - Le diagramme de séquence
 
-Le diagramme de séquence permet de séquencer ces utilisations sur une timeline.
+Le [diagramme de séquence](https://github.com/simplonco/UML-Sequence) permet de séquencer ces utilisations sur une timeline.
 
-https://github.com/simplonco/UML-Sequence
