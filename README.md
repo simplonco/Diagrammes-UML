@@ -1,12 +1,12 @@
 ##**Diagrammes UML**
 
-> _**Note :**_
-> _Ce cours se situe dans le cadre d'un case study sur la réalisation d'un projet de SaaS : Fixeez ( un service d'ubérisation de réparation vélo ). Il peut cependant être utilisé pour un projet avec des contraintes techniques différentes de celles du case study._
-
 Communiquer dans une équipe de métiers divers où chacun vient avec son vocabulaire peut être challenging. Les diagrammes UML permettent d'**identifier et banaliser les process à incorporer dans un projet**.
 
 Il y a plusieurs types de diagrammes.
 Certains permettent de définir les visions globales d'un produit. D'autres de définir de façon très détaillée les intéractions entre les différents éléments de ce produit. C'est cet exercice d'analyse en profondeur qui va permettre de mieux définir son produit.
+
+> _**Note :**_
+> _Ce cours se situe dans le cadre d'un case study sur la réalisation d'un projet de SaaS : Fixeez ( un service d'ubérisation de réparation vélo ). Il peut cependant être utilisé pour un projet avec des contraintes techniques différentes de celles du case study._
 
 ----------
 
