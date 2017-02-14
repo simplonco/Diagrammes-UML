@@ -1,4 +1,6 @@
-##**Diagrammes UML**
+![UML logo](https://raw.githubusercontent.com/simplonco/Diagrammes-UML/master/logo.png)
+
+#**Diagrammes UML**
 
 Communiquer dans une équipe de métiers divers où chacun vient avec son vocabulaire peut être challenging. Les diagrammes UML permettent d'**identifier et banaliser les process à incorporer dans un projet**.
 
