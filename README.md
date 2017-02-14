@@ -11,7 +11,7 @@ Certains permettent de définir les visions globales d'un produit. D'autres de d
 > _Ce cours se situe dans le cadre d'un case study sur la réalisation d'un projet de SaaS : Fixeez ( un service d'ubérisation de réparation vélo ). Il peut cependant être utilisé pour un projet avec des contraintes techniques différentes de celles du case study._
 
 **Requirements** : Il vous faudra un logiciel pour faire vos diagrammes.
- + le plus spécifique et celui utilisé dans les exemples [StarUML](http://staruml.io/).
+ + le plus spécifique et celui utilisé dans les exemples : [StarUML](http://staruml.io/).
  + le plus polyvalent (UML et wireframes) : [Balsamiq](https://balsamiq.com/).
 
 
