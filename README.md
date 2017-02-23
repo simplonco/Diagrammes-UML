@@ -38,4 +38,4 @@ Le [diagramme d'intéraction](https://github.com/simplonco/UML-Interaction) perm
 
 ##Step 4 - Le diagramme de classe
 
-Le [diagramme de classe](https://github.com/simplonco/UML-class) permet presque de pré-coder son app. Il va définir chaque acteurs/objets, leurs propriétés et méthodes. Une super guideline pour avancer dans son projet.
+Le [diagramme de classe](https://github.com/simplonco/UML-classe) permet presque de pré-coder son app. Il va définir chaque acteurs/objets, leurs propriétés et méthodes. Une super guideline pour avancer dans son projet.
