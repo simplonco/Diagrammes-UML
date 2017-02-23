@@ -26,3 +26,16 @@ Le [use-case](https://github.com/simplonco/UML-Use-Case), comme son nom l'indiqu
 ##Step 2 - Le diagramme de séquence
 
 Le [diagramme de séquence](https://github.com/simplonco/UML-Sequence) permet de séquencer ces utilisations sur une timeline.
+
+
+----------
+
+##Step 3 - Le diagramme d'intéraction
+
+Le [diagramme d'intéraction](https://github.com/simplonco/UML-Interaction) permet de définir la navigatipon intégrale d'un utilisateur sur le service.
+
+----------
+
+##Step 4 - Le diagramme de classe
+
+Le [diagramme de classe](https://github.com/simplonco/UML-class) permet presque de pré-coder son app. Il va définir chaque acteurs/objets, leurs propriétés et méthodes. Une super guideline pour avancer dans son projet.
