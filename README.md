@@ -1,3 +1,7 @@
+<img src="readme/img/simplon.jpg" width="400">
+
+----------------------
+
 #**Diagrammes UML**
 
 ![UML logo](readme/img/logo.png)
